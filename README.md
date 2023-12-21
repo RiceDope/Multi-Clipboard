@@ -2,6 +2,10 @@
 
 Multi-Clipboard is a tool that can be used to save an unlimited number of clipboards using the command line. You can choose to download the executable MultiClipboard.exe and run that or download the java file and compile yourself in the command line.
 
+# Future
+- The ability to save clipboards to a json file. All that are currently being stored
+- The ability to then load these clipboards to the application
+
 # How to compile a java file in cmd
 *I know this is quite basic but would've helped me when I was learning*  
 1. First open cmd in the same directory that MultiClipboard.java is saved in.
