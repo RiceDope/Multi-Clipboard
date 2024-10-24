@@ -25,7 +25,6 @@ This should run the MultiClipboard program in the command line window you're in.
 ```
 git clone https://github.com/RiceDope/Multi-Clipboard.git
 ```
-*If this doesn't work for any reason please let me know*
 
 # Other info
 - Any issues please let me know im happy to look to fix
